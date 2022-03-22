@@ -25,4 +25,4 @@ Propiedades.defaultProps = {
 
 Propiedades.propTypes = {
   numero: PropTypes.number.isRequired,
-};
+}; 
